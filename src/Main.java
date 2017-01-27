@@ -9,6 +9,8 @@ import javafx.stage.Stage;
 /**
  * Created by aleksandra on 26/10/2016.
  */
+
+//Git Harjutamine
 public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
